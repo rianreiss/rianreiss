@@ -1,3 +1,4 @@
-# Streak Stats
+## Hey there! I'm Rian Reis, what's up? 🤙🏼
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=rianreiss&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=DD0000&currStreakNum=DDC900&fire=DD0000&currStreakLabel=DDC900&sideLabels=00DDD6" />
+### Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rianreiss&theme=yeblu)
